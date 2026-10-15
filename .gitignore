@@ -179,3 +179,10 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Keep downloaded raw transit datasets out of GitHub
+/data/raw/
+
+# Ignore generated Python cache files
+__pycache__/
+*.py[cod]
