@@ -186,3 +186,9 @@ cython_debug/
 # Ignore generated Python cache files
 __pycache__/
 *.py[cod]
+
+# Original GTFS datasets
+data/raw/
+
+# Large processed files
+data/processed/*/time_features.csv

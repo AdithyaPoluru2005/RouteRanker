@@ -1,0 +1,12 @@
+Feature,Description,Data_Type
+route_id,Unique route identifier,Categorical
+total_trips,Number of distinct trips on a route,Numerical
+total_stops,Number of distinct stops served by a route,Numerical
+arrival_hour,Scheduled arrival time in decimal hours,Numerical
+arrival_minute,Arrival minute,Numerical
+departure_hour,Scheduled departure time in decimal hours,Numerical
+departure_minute,Departure minute,Numerical
+arrival_period,Arrival time category,Categorical
+departure_period,Departure time category,Categorical
+departure_service_hour,Integer service-hour bucket,Numerical
+trip_count,Number of distinct trips in that hour,Numerical

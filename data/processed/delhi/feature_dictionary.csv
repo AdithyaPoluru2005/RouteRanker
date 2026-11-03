@@ -1,0 +1,10 @@
+Feature,Meaning,Source,Calculation,Data_Type
+route_id,Unique route identifier,routes.txt,Original field,Categorical
+route_long_name,Route name,routes.txt,Original field,Categorical
+total_trips,Distinct scheduled trips per route,trips.txt,Group by route and count unique trips,Numerical
+total_stops,Distinct stops served per route,trips.txt + stop_times.txt,Join and count unique stops,Numerical
+arrival_hour,Scheduled arrival hour,stop_times.txt,Extract from GTFS arrival time,Numerical
+departure_hour,Scheduled departure hour,stop_times.txt,Extract from GTFS departure time,Numerical
+arrival_period,Arrival time category,stop_times.txt,Morning/Afternoon/Evening/Night,Categorical
+departure_period,Departure time category,stop_times.txt,Morning/Afternoon/Evening/Night,Categorical
+trip_count,Distinct trips departing in an hour for a route,trips.txt + stop_times.txt,Count first departures by route and hour,Numerical
