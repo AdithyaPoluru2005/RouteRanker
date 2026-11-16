@@ -1,0 +1,175 @@
+City,Route_ID,Total_Trips,Total_Stops,Review_Reason,Suggested_Action
+delhi,362.0,16.0,94.0,Very high stop count,Review route schedule and GTFS data
+delhi,1365.0,22.0,94.0,Very high stop count,Review route schedule and GTFS data
+delhi,1872.0,9.0,92.0,Very high stop count,Review route schedule and GTFS data
+delhi,1185.0,171.0,9.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+delhi,10423.0,35.0,176.0,Very high stop count,Review route schedule and GTFS data
+delhi,10040.0,12.0,196.0,Very high stop count,Review route schedule and GTFS data
+delhi,1008.0,146.0,16.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,612.0,118.0,84.0,Very high stop count,Review route schedule and GTFS data
+delhi,1239.0,176.0,9.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+delhi,375.0,211.0,25.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,10500.0,94.0,13.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+delhi,294.0,51.0,79.0,Very high stop count,Review route schedule and GTFS data
+delhi,10066.0,29.0,175.0,Very high stop count,Review route schedule and GTFS data
+delhi,10067.0,225.0,24.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,549.0,169.0,10.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+delhi,674.0,313.0,40.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,10533.0,242.0,20.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,10088.0,232.0,25.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,259.0,81.0,3.0,Very low stop count,Review route schedule and GTFS data
+delhi,292.0,51.0,80.0,Very high stop count,Review route schedule and GTFS data
+delhi,10553.0,55.0,197.0,Very high stop count,Review route schedule and GTFS data
+delhi,761.0,204.0,27.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,737.0,146.0,19.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,445.0,70.0,71.0,Very high stop count,Review route schedule and GTFS data
+delhi,593.0,311.0,38.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,1005.0,35.0,92.0,Very high stop count,Review route schedule and GTFS data
+delhi,1742.0,117.0,84.0,Very high stop count,Review route schedule and GTFS data
+delhi,962.0,8.0,102.0,Very high stop count,Review route schedule and GTFS data
+delhi,710.0,161.0,19.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,2026.0,86.0,14.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+delhi,1646.0,8.0,102.0,Very high stop count,Review route schedule and GTFS data
+delhi,1488.0,70.0,77.0,Very high stop count,Review route schedule and GTFS data
+delhi,10655.0,64.0,74.0,Very high stop count,Review route schedule and GTFS data
+delhi,5017.0,160.0,20.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5027.0,95.0,65.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+delhi,5220.0,80.0,79.0,Very high stop count,Review route schedule and GTFS data
+delhi,5254.0,272.0,58.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5418.0,159.0,22.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5428.0,47.0,168.0,Very high stop count,Review route schedule and GTFS data
+delhi,5431.0,140.0,96.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+delhi,5436.0,140.0,80.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+delhi,5482.0,191.0,29.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5483.0,191.0,23.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5493.0,91.0,69.0,Very high stop count,Review route schedule and GTFS data
+delhi,5687.0,69.0,79.0,Very high stop count,Review route schedule and GTFS data
+delhi,5714.0,82.0,12.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+delhi,5721.0,318.0,57.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5722.0,318.0,61.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5817.0,188.0,40.0,Very high scheduled trips,Review route schedule and GTFS data
+delhi,5846.0,4.0,89.0,Very high stop count,Review route schedule and GTFS data
+delhi,5895.0,82.0,168.0,Very high stop count,Review route schedule and GTFS data
+delhi,5896.0,110.0,66.0,Very high stop count,Review route schedule and GTFS data
+delhi,5898.0,110.0,96.0,Very high stop count,Review route schedule and GTFS data
+delhi,5956.0,92.0,66.0,Very high stop count,Review route schedule and GTFS data
+delhi,5982.0,59.0,87.0,Very high stop count,Review route schedule and GTFS data
+delhi,6001.0,84.0,72.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,1,305.0,134.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,104A,400.0,180.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,107VR,194.0,168.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,10H,1161.0,270.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,10Y/F,268.0,100.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,113M,428.0,85.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,115,265.0,52.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,117,308.0,55.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,127K,330.0,155.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,16A,439.0,349.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,16C,277.0,126.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,195W,523.0,188.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,19K/J,267.0,166.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,216,676.0,405.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,217,260.0,384.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,218,630.0,295.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,218C,511.0,191.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,218D,137.0,237.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,219,2087.0,795.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,219S/502,198.0,159.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,222A,357.0,205.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,224G,320.0,92.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,24B/281,172.0,148.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+hyderabad,250C,357.0,184.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,26M,240.0,29.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,277,193.0,252.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,277D,372.0,340.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,279,635.0,262.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,280,352.0,97.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,281,399.0,74.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,290,329.0,101.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,290U,545.0,234.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,299X,771.0,133.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,300,1314.0,496.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,300/251,184.0,277.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,300L,123.0,114.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+hyderabad,3K,298.0,176.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,40,282.0,46.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,412,91.0,285.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,47L,454.0,183.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,49M,445.0,185.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,505,223.0,209.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,532,179.0,258.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,540,104.0,217.0,Very high stop count,Review route schedule and GTFS data
+hyderabad,555,387.0,225.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,5K,314.0,243.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,8A,783.0,121.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,90L,292.0,105.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,9X,222.0,173.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+hyderabad,9Y/F,336.0,104.0,Very high scheduled trips,Review route schedule and GTFS data
+hyderabad,AJ,175.0,12.0,Very low stop count,Review route schedule and GTFS data
+bengaluru,1751.0,195.0,43.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1068.0,101.0,123.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+bengaluru,1508.0,295.0,77.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,995.0,269.0,91.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1576.0,398.0,44.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1133.0,310.0,85.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,3886.0,187.0,42.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,991.0,200.0,24.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1507.0,258.0,100.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1399.0,104.0,112.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+bengaluru,1051.0,77.0,134.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+bengaluru,6010.0,2.0,184.0,Very high stop count,Review route schedule and GTFS data
+bengaluru,1695.0,217.0,86.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,7823.0,223.0,28.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1101.0,279.0,48.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1100.0,318.0,115.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+bengaluru,1652.0,187.0,82.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1771.0,206.0,40.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,6638.0,107.0,130.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+bengaluru,1621.0,283.0,53.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,3486.0,269.0,30.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,2725.0,227.0,30.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,8503.0,211.0,9.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1348.0,66.0,119.0,Very high stop count,Review route schedule and GTFS data
+bengaluru,1419.0,125.0,126.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+bengaluru,1558.0,233.0,145.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+bengaluru,1659.0,316.0,62.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,1086.0,328.0,75.0,Very high scheduled trips,Review route schedule and GTFS data
+bengaluru,3451.0,290.0,22.0,Very high scheduled trips,Review route schedule and GTFS data
+chennai,20089.0,178.0,48.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+mumbai,BEST_2922,573.0,5.0,Very high scheduled trips,Review route schedule and GTFS data
+mumbai,BEST_2158,181.0,79.0,Very high stop count,Review route schedule and GTFS data
+mumbai,BEST_2159,188.0,80.0,Very high stop count,Review route schedule and GTFS data
+mumbai,BEST_3128,235.0,53.0,Very high scheduled trips,Review route schedule and GTFS data
+mumbai,BEST_3129,234.0,55.0,Very high scheduled trips,Review route schedule and GTFS data
+mumbai,BEST_2964,267.0,61.0,"Very high scheduled trips, Very high stop count",Review route schedule and GTFS data
+mumbai,BEST_2965,221.0,64.0,Very high stop count,Review route schedule and GTFS data
+mumbai,VVMT_12,12.0,114.0,Very high stop count,Review route schedule and GTFS data
+mumbai,VVMT_27,20.0,147.0,Very high stop count,Review route schedule and GTFS data
+mumbai,VVMT_28,11.0,120.0,Very high stop count,Review route schedule and GTFS data
+pune,39.0,64.0,43.0,Very high scheduled trips,Review route schedule and GTFS data
+pune,178.0,35.0,86.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+pune,179.0,64.0,87.0,Very high scheduled trips,Review route schedule and GTFS data
+pune,221.0,38.0,67.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+pune,356.0,24.0,72.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+pune,358.0,36.0,69.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+pune,400.0,8.0,122.0,Very high stop count,Review route schedule and GTFS data
+pune,401.0,9.0,122.0,Very high stop count,Review route schedule and GTFS data
+pune,445.0,31.0,88.0,Very high stop count,Review route schedule and GTFS data
+pune,513.0,63.0,36.0,Very high scheduled trips,Review route schedule and GTFS data
+pune,628.0,17.0,72.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+pune,636.0,57.0,45.0,Very high scheduled trips,Review route schedule and GTFS data
+pune,647.0,16.0,80.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+pune,709.0,59.0,29.0,Very high scheduled trips,Review route schedule and GTFS data
+pune,761.0,36.0,85.0,Unusual DBSCAN cluster position,Review route schedule and GTFS data
+pune,763.0,48.0,21.0,Very high scheduled trips,Review route schedule and GTFS data
+pune,788.0,9.0,91.0,Very high stop count,Review route schedule and GTFS data
+pune,789.0,16.0,91.0,Very high stop count,Review route schedule and GTFS data
+pune,807.0,59.0,47.0,Very high scheduled trips,Review route schedule and GTFS data
+pune,902.0,84.0,15.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+pune,903.0,91.0,14.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+pune,914.0,31.0,99.0,Very high stop count,Review route schedule and GTFS data
+pune,915.0,25.0,98.0,Very high stop count,Review route schedule and GTFS data
+pune,1064.0,51.0,16.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+pune,1065.0,59.0,16.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+pune,1066.0,47.0,15.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data
+pune,1067.0,56.0,15.0,"Very high scheduled trips, Very low stop count",Review route schedule and GTFS data

@@ -1,0 +1,7 @@
+City,Original_Routes,Simulated_Routes,Original_Scheduled_Trips,Simulated_Scheduled_Trips
+delhi,2403,2403,89393.0,89393.0
+hyderabad,1031,1031,44892.0,42959.0
+bengaluru,4434,4434,57836.0,57836.0
+chennai,4611,4611,47047.0,47047.0
+mumbai,1609,1609,99080.0,98947.0
+pune,628,628,10128.0,10128.0
